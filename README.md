@@ -1,4 +1,4 @@
-# UMCalculator
+# MUCalculator
 ## Super Simple Measurement Uncertainty Calculator Made in Java
 ### 你說的隊, 但我用ChatGPT
 
