@@ -21,6 +21,7 @@ public class Main {
             measurements.add(measurement);
         }
 
+
         // Calculate the mean (average)
         double mean = calculateMean(measurements);
 
